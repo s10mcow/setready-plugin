@@ -1,0 +1,25 @@
+{
+  "name": "setready",
+  "displayName": "SetReady",
+  "version": "0.1.0",
+  "description": "Plan a manufactured home on land in seven Southeast states, step by step, with local pros from the SetReady roster.",
+  "author": {
+    "name": "Much IO Inc.",
+    "url": "https://setready.us"
+  },
+  "homepage": "https://setready.us",
+  "license": "MIT",
+  "keywords": [
+    "manufactured home",
+    "mobile home",
+    "land",
+    "contractors",
+    "septic",
+    "well",
+    "Florida"
+  ],
+  "documentationUrl": "https://setready.us/connect",
+  "privacyPolicyUrl": "https://setready.us/privacy",
+  "termsOfServiceUrl": "https://setready.us/terms",
+  "repository": "https://github.com/s10mcow/setready-plugin"
+}
