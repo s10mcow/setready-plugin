@@ -15,11 +15,10 @@ The skill runs no code and fetches nothing on its own. It asks Claude to call th
 
 A listing is a directory entry, not an endorsement or a booking. A license number on a listing is not a current verification; check it with the state licensing board. Coverage varies by county.
 
-## Try it locally
+## Install
 
-```sh
-git clone https://github.com/s10mcow/setready-plugin
-claude --plugin-dir ./setready-plugin
-```
+In Claude, open the plugin directory and add SetReady. In Claude Code, run `/plugin` and choose SetReady from the directory.
+
+To try a local copy of this repository instead, start Claude Code with `--plugin-dir` pointing at the folder.
 
 Then run `/mcp` to sign in to SetReady, and ask: "I'm putting a doublewide on 5 acres I own in Marion County, Florida. What do I need, in order, and who can do it?"
