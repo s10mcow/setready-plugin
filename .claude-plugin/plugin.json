@@ -19,6 +19,7 @@
     "Florida"
   ],
   "documentationUrl": "https://setready.us/connect",
+  "supportUrl": "https://github.com/s10mcow/setready-plugin/issues",
   "privacyPolicyUrl": "https://setready.us/privacy",
   "termsOfServiceUrl": "https://setready.us/terms",
   "repository": "https://github.com/s10mcow/setready-plugin"
